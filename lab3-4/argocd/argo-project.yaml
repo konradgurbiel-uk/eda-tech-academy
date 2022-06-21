@@ -2,7 +2,7 @@ apiVersion: argoproj.io/v1alpha1
 kind: AppProject
 metadata:
   name: ahsoka4
-  namespace: openshift-gitops
+  namespace: ahsoka4
   labels:
     gitops.tier.layer: infra
 spec:
