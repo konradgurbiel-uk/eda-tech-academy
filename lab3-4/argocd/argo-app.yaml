@@ -29,10 +29,10 @@ spec:
     jsonPointers:
     - /spec/host
     kind: Route
-  project: poe1
+  project: ahsoka4
   source:
     path: lab3-4/argocd
-    repoURL: https://github.com/jbcodeforce/eda-tech-academy.git
+    repoURL: https://github.com/konradgurbiel-uk/eda-tech-academy.git
   syncPolicy:
     automated:
       prune: true
